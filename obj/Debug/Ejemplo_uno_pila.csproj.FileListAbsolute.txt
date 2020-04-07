@@ -1,0 +1,9 @@
+D:\Proyectos\Visual estudio\Ejemplo_uno_pila\bin\Debug\Ejemplo_uno_pila.exe.config
+D:\Proyectos\Visual estudio\Ejemplo_uno_pila\bin\Debug\Ejemplo_uno_pila.exe
+D:\Proyectos\Visual estudio\Ejemplo_uno_pila\bin\Debug\Ejemplo_uno_pila.pdb
+D:\Proyectos\Visual estudio\Ejemplo_uno_pila\obj\Debug\Ejemplo_uno_pila.csprojAssemblyReference.cache
+D:\Proyectos\Visual estudio\Ejemplo_uno_pila\obj\Debug\Ejemplo_uno_pila.Form1.resources
+D:\Proyectos\Visual estudio\Ejemplo_uno_pila\obj\Debug\Ejemplo_uno_pila.Properties.Resources.resources
+D:\Proyectos\Visual estudio\Ejemplo_uno_pila\obj\Debug\Ejemplo_uno_pila.csproj.GenerateResource.cache
+D:\Proyectos\Visual estudio\Ejemplo_uno_pila\obj\Debug\Ejemplo_uno_pila.exe
+D:\Proyectos\Visual estudio\Ejemplo_uno_pila\obj\Debug\Ejemplo_uno_pila.pdb
